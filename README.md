@@ -4,3 +4,7 @@
 
 
 <img src="Renders/starbie_front.png">
+
+## Why 
+
+This project was created to be the week 1 project for [halflife](https://halflife.hackclub.com/)!
