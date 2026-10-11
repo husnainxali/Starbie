@@ -8,3 +8,9 @@
 ## Why 
 
 This project was created to be the week 1 project for [halflife](https://halflife.hackclub.com/)!
+
+## Renders
+<img src="Renders/Schematic.png">
+
+<img src="Renders/starbie3dfront.png">
+<img src="Renders/starbie3dback.png">
