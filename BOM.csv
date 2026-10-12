@@ -1,11 +1,11 @@
 Item, amount, cost (ea.), Link
-XIAO ESP32 C3, 1, 5.00, https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html
-0.96 OLED, 1, 2.50, https://www.amazon.com/dp/B0GBVWBWCR
-MPU6050, 1, 2.29, https://www.amazon.com/dp/B0943SGP34
-DHT11, 1, 3.33, https://www.amazon.com/dp/B0BLG7R99R
-MX Switches, 4, 0.18, https://www.amazon.com//dp/B0FQP8VYX4
-Keycaps, 4, 0.60, https://www.amazon.com/dp/B0CQ2VLMVY
-10k Resistor, 1, 0.05, https://www.amazon.com/dp/B0B4JFPHTW
-PCB,1,10.00,https://www.jlcpcb.com/
+XIAO ESP32 C3, 1, 5.00, https://www.daraz.pk/products/esp32-c3-wifi-i1953921911-s14015367493.html
+0.96 OLED, 1, 2.50, https://www.daraz.pk/products/096-iic-oled-128x64-i2c-ssd1306-lcd-i400396294-s1934234289.html
+MPU6050, 1, 2.29,https://www.daraz.pk/products/135pcs-gy-521-mpu-6050-mpu6050-3-axis-accelerometer-gyroscope-module-6-axis-accelerometer-gyroscope-16-bit-ad-arduino-i1949521125-s14012880141.html
+DHT11, 1, 3.33, https://www.daraz.pk/products/dht11-temperature-and-humidity-sensor-module-i133574929-s1293989839.html
+MX Switches, 4, 0.18, https://www.daraz.pk/products/10pcs-i1958139309-s14019830305.html
+Keycaps, 4, 0.60, https://www.daraz.pk/products/1020pcs-1u-r4-abs-i1958524727-s14019797735.html
+10k Resistor, 1, 0.05,https://www.daraz.pk/products/10k-ohm-50-pcs-14-watt-5-carbon-film-resistor-through-hole-in-pakistan-i427900604-s2033507072.html
+PCB,1,16-18,https://www.jlcpcb.com/
 ,,,
-Total (each kit), 1, 24.95,
+Total , 1, 54
