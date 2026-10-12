@@ -22,4 +22,5 @@ This project was created to be the week 1 project for [halflife](https://halflif
 <img src="Renders/starbie3dfront.png" width="400">
 <img src="Renders/starbie3dback.png" width="400">
 
+Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 
