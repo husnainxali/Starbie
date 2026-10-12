@@ -1,6 +1,6 @@
 # Starbie
 
-### A Esp32_C3 based digtal that u can play with and keep it alive if u dont it dies(*_*) sad thats why u have to keep it alive 
+### A Esp32_C3 based digtal that u can play with and keep it alive if u dont it dies(x_x) sad thats why u have to keep it alive 
 
 
 <img src="Renders/starbie_front.png">
@@ -10,7 +10,12 @@
 This project was created to be the week 1 project for [halflife](https://halflife.hackclub.com/)!
 
 ## Renders
-<img src="Renders/Schematic.png">
+- **Schematic**
+<img src="Renders/Schematic.png" width="300">
+- **Pcb layout**
+<img src="Renders/image.png" width="300">
+- **Pcb**
+<img src="Renders/starbie3dfront.png" width="300">
+<img src="Renders/starbie3dback.png" width="300">
 
-<img src="Renders/starbie3dfront.png">
-<img src="Renders/starbie3dback.png">
+
