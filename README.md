@@ -12,9 +12,13 @@ This project was created to be the week 1 project for [halflife](https://halflif
 ## Renders
 - **Schematic**
 <img src="Renders/Schematic.png" width="400">
+
 - **Pcb layout**
+
 <img src="Renders/image.png" width="400">
+
 - **Pcb**
+
 <img src="Renders/starbie3dfront.png" width="400">
 <img src="Renders/starbie3dback.png" width="400">
 
