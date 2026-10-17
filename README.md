@@ -5,10 +5,6 @@
 
 <img src="Renders/starbie_front.png" width="500">
 
-## Why 
-
-This project was created to be the week 1 project for [halflife](https://halflife.hackclub.com/)!
-
 ## Renders
 - **Schematic**
 <img src="Renders/Schematic.png" width="400">
