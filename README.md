@@ -2,7 +2,7 @@
 
 ### A Esp32_C3 based digital pet that u can play with and keep it alive if u dont it dies (x_x) ,sad thats why u have to keep it alive 
 
-
+<img src="Renders/starbie_case1.png" width="500">
 <img src="Renders/starbie_front.png" width="500">
 
 ## Renders
