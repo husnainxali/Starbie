@@ -24,5 +24,9 @@
 _ **Case**
 
 <img src="Renders/starbie_casefront.png" width="400">
+
 Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
+
+
+----
 
