@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="Renders/starbie_case1.png" width="300">
-  <img src="Renders/starbie_front.png" width="300">
+  <img src="Renders/starbie_front.png" width="500">
 </p>
 
 
@@ -21,5 +21,8 @@
 <img src="Renders/starbie3dfront.png" width="400">
 <img src="Renders/starbie3dback.png" width="400">
 
+_ **Case**
+
+<img src="Renders/starbie_casefront.png" width="400">
 Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 
