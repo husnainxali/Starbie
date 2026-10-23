@@ -40,22 +40,27 @@ and then flash it with the firmware add changes to it according to your need
 #Libraries.
 
 Open Sketch → Include Library → Manage Libraries. Install these libraries one at a time:
-**Adafruit GFX Library**
-**Adafruit SSD1306**
-**Adafruit MPU6050**
-**DHT sensor library**
+
+- **Adafruit GFX Library**
+ 
+- **Adafruit SSD1306**
+
+- **Adafruit MPU6050**
+
+- **DHT sensor library**
+
 If Arduino asks to install dependencies, choose Install All.
 
 ### Installing
-**Install the current **[Arduino IDE](https://www.arduino.cc/en/software)**.**
+- **Install the current **[Arduino IDE](https://www.arduino.cc/en/software)**.**
 
-**Open File → Preferences. In Additional Boards Manager URLs, add:
+- **Open File → Preferences. In Additional Boards Manager URLs, add:
 
 https://espressif.github.io/arduino-esp32/package_esp32_index.json**
 
-**Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.**
+- **Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.**
 
-**Under Tools → Board → esp32, select XIAO_ESP32C3.**
+- **Under Tools → Board → esp32, select XIAO_ESP32C3.**
 
 ### Executing program
 
