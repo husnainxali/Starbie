@@ -1,4 +1,4 @@
-# Project Title
+# Starbie
 <p align="center">
   <img src="Renders/starbie_case1.png" width="300">
   <img src="Renders/starbie_front.png" width="500">
