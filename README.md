@@ -54,9 +54,9 @@ If Arduino asks to install dependencies, choose Install All.
 ### Installing
 - **Install the current **[Arduino IDE](https://www.arduino.cc/en/software)**.**
 
-- **Open File → Preferences. In Additional Boards Manager URLs, add:
+- **Open File → Preferences. In Additional Boards Manager URLs, add:**
 
-https://espressif.github.io/arduino-esp32/package_esp32_index.json**
+https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
 - **Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.**
 
