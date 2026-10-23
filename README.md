@@ -58,7 +58,7 @@ After installing ESp32 board and all the libraries open the **[Firmware.ino](Fir
 When you get your board, click Arduino's arrow-shaped Upload button.
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details
 
 ----
 
