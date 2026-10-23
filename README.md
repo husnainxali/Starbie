@@ -12,6 +12,7 @@ Starbie is a device made for digital pet I heavily referenced Tamagotchi and sim
 ### Screenshots
 
 - **Schematic**
+- 
 <img src="Renders/Schematic.png" width="400">
 
 - **Pcb layout**
