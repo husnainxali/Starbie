@@ -12,7 +12,6 @@ Starbie is a device made for digital pet I heavily referenced Tamagotchi and sim
 ### Screenshots
 
 - **Schematic**
-- 
 <img src="Renders/Schematic.png" width="400">
 
 - **Pcb layout**
@@ -37,12 +36,14 @@ and then flash it with the firmware add changes to it according to your need
 3d print the case for it or don't use one. Its on u!
 
 ### Dependencies
-##Libraries
+
+#Libraries.
+
 Open Sketch → Include Library → Manage Libraries. Install these libraries one at a time:
-Adafruit GFX Library
-Adafruit SSD1306
-Adafruit MPU6050
-DHT sensor library
+**Adafruit GFX Library**
+**Adafruit SSD1306**
+**Adafruit MPU6050**
+**DHT sensor library**
 If Arduino asks to install dependencies, choose Install All.
 
 ### Installing
@@ -53,10 +54,14 @@ If Arduino asks to install dependencies, choose Install All.
 https://espressif.github.io/arduino-esp32/package_esp32_index.json**
 
 **Open Tools → Board → Boards Manager, search for esp32, and install esp32 by Espressif Systems.**
+
 **Under Tools → Board → esp32, select XIAO_ESP32C3.**
+
 ### Executing program
+
 After installing ESp32 board and all the libraries open the **[Firmware.ino](Firmware/Starbie_firmware.ino)** file
 When you get your board, click Arduino's arrow-shaped Upload button.
+
 ## License
 
 This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details
